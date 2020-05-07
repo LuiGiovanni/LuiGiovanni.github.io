@@ -1,2 +1,4 @@
 theme: jekyll-theme-slate
 title: Giovanni blog
+plugins:
+  - jemoji
